@@ -1,7 +1,37 @@
+#header, #footer {
+  text-align: center;
+}
 
+#header-wheel {
+  height: 1em;
+}
 
 #carousel-container {
   margin: 1em auto;
   height: 600px;
   width: 80%;
+}
+
+
+/*********************************/
+/*********************************/
+/*********************************/
+/*********************************/
+/* Footer */
+
+
+.contact-icon-list {
+  border-radius: 0.5em;
+  margin: 0.2em;
+  display: inline-block;
+}
+
+.contact-icon-list img {
+  max-height: 2.5em;
+  margin: 0.5em 0.5em;
+  transition-duration: 0.5s;
+}
+
+.contact-icon-list img:hover {
+  opacity: 0.5;
 }

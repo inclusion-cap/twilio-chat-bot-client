@@ -15,6 +15,9 @@ function Body() {
       <div className="carousel-item">
         <img src='http://www.fubiz.net/wp-content/uploads/2019/07/stranger-things-animation-anime-annees-80-8.png' alt="img" />
       </div>
+      <div className="carousel-item">
+        <img src='https://c7.uihere.com/files/951/961/183/demogorgon-eleven-sticker-wall-decal-google-allo-stranger-things-thumb.jpg' alt="img" />
+      </div>
     </AwesomeSlider >
   );
 
